@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: apriln070@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![sherry-500's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherry-500)
+-->
+![sherry-500's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherry-500)
